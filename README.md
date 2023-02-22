@@ -34,6 +34,7 @@ start the frontend
 
 npm start 
 8 environment
-node 12.x.x
-java 11
-MySql 8
+react
+node 
+java 
+MySql 
